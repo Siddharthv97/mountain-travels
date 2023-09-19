@@ -114,7 +114,7 @@ header nav a {
   text-align: center;
   font-family: poppins;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 400;
   margin-bottom: 26px;
 }
 
@@ -172,7 +172,7 @@ img {
 }
 
 .package p {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .grid2 {
